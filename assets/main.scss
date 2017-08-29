@@ -1,0 +1,28 @@
+---
+---
+
+@import "minima";
+
+.site-header {
+  border-top: none;
+}
+
+.site-title {
+  text-transform: uppercase;
+  font-size: 22px;
+  font-weight: 600;
+}
+
+a, a:visited {
+  color: #BF5700;
+}
+
+.page-link {
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.page-link:hover {
+  color: #BF5700;
+}
