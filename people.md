@@ -26,6 +26,7 @@ permalink: /texas-blockchain-entrepreneurs-investors/
 | [Mark Cuban](https://twitter.com/FortuneLedger/status/900777460626845696) | Cryptocurrency investor. Founder of the first decentralized NBA franchise 😉 |
 | [Mark Morris](https://twitter.com/TarantulaTweets/) | Founder of Austin blockchain technology meetup. |
 | [Mark Thorsen](https://angel.co/mark-thorsen) | Investment manager at Central Texas Angel Network. |
+| [Matt Khoury](https://twitter.com/MEKhoko) | Cryptocurrency trader. Book reader. |
 | [Matt Schaefer](https://twitter.com/repmattschaefer?lang=en) | Texas State Rep for. Sponsored favorable crypto regulation. |
 | [Michael Robinson](https://twitter.com/MichaelRobison) | Co-founder of blockchain investment firm, OnePebble. |
 | [Paul Snow](https://twitter.com/paulsnx2?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) | Co-founder of Factom and Texas Bitcoin Conference.  |
