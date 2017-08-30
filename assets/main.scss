@@ -36,3 +36,69 @@ a, a:visited {
   font-size: 2.5rem;
   line-height: 1.2;
 }
+
+
+// Home Box
+
+.col-wrapper {
+  @include relative-font-size(0.9375);
+  color: $grey-color;
+  @extend %clearfix;
+  padding-top: 2rem;
+}
+
+.col {
+  float: left;
+  text-align: center;
+  margin-bottom: 20px;
+  padding-top: 80px;
+  padding-bottom: 65px;
+  margin-right: 10px;
+}
+
+.col-1 {
+  width: -webkit-calc(32% - (#{$spacing-unit} / 2));
+  width:         calc(32% - (#{$spacing-unit} / 2));
+  background-color: #ffeae4;
+
+
+}
+
+.col-2 {
+  width: -webkit-calc(32% - (#{$spacing-unit} / 2));
+  width:         calc(32% - (#{$spacing-unit} / 2));
+  background-color: #ffeae4;
+  margin-right: 10px;
+}
+
+.col-3 {
+  width: -webkit-calc(32% - (#{$spacing-unit} / 2));
+  width:         calc(32% - (#{$spacing-unit} / 2));
+  background-color: #ffeae4;
+}
+
+@include media-query($on-laptop) {
+  .col-1,
+  .col-2,
+  .col-3 {
+    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+    width:         calc(100% - (#{$spacing-unit} / 2));
+    margin-left: 10px;
+
+  }
+}
+
+@include media-query($on-palm) {
+  .col {
+    float: none;
+    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+    width:         calc(100% - (#{$spacing-unit} / 2));
+  }
+}
+
+
+// Footer
+.footer-heading {
+  text-align: center;
+  margin-top: 15px;
+}
