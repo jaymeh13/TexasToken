@@ -22,3 +22,5 @@ permalink: /texas-blockchain-events/
 * [Texas Bitcoin Conference - Oct 28-29, 2017 - Austin](https://texasbitcoinconference.com/)
 * [Blockchain & Cryptocurrency Conference Feb 23–24, 2018 – Dallas](https://blockchain-conf.com/)
 * [Global Bitcoin and Blockchain Conferences](https://www.coindesk.com/bitcoin-events/)
+
+[Add or edit this page on GitHub.](https://github.com/jaymeh13/TexasToken/blob/master/events.md)
