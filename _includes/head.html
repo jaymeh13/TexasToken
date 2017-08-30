@@ -8,7 +8,7 @@
 
   <title>
     {% if page.title == "Home" %}
-      {{ site.title }} &middot; {{ site.tagline }}
+      {{ site.title }} &middot; {{ site.description }}
     {% else %}
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
@@ -16,7 +16,7 @@
   <meta name="Description" content="Jayme Hoffman's (@jhoff) personal website. Jayme makes products and businesses on the internet.">
   <meta name="Keywords" content="Jayme hoffman, jhoff, mental models, startup">
 
-  
+
   <!-- CSS -->
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
 
