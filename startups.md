@@ -25,6 +25,7 @@ permalink: /texas-blockchain-startups/
 | [Trammell Venture Partners](http://trammell.ventures/) | Early stage VC with blockchain focus. |
 | [UTXO](https://twitter.com/_utxo_) | Cryptocurrency miner. |
 | [Volt Markets](https://voltmarkets.com/) | Secure and transparent energy and energy attribute trading platform. |
+| [Wanchain](https://www.wanchain.org/) | Financial infrastructure that connects different blockchain networks together. |
 | [XRAM Capital](https://xram.capital/) | Crypto Asset Hedge Fund |
 
 [Add or edit this page on GitHub.](https://github.com/jaymeh13/TexasToken/blob/master/startups.md)
