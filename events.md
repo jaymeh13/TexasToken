@@ -18,7 +18,8 @@ permalink: /texas-blockchain-events/
 * [Houston Ethereum Meetup - (427 Members)](https://www.meetup.com/houstonethereum/)
 
 # Conferences
-* [Blockchain In Oil And Gas - Sep 12-15, 2017 - Dallas](https://www.blockchainoilandgas17.com/)
+* [Blockchain In Oil And Gas - Sep 12-15, 2017 - Houston](https://www.blockchainoilandgas17.com/)
+* [Blockchain Boot Camp Oct 24, 2017 - Dallas](https://blockchainbootcamp.io)
 * [Texas Bitcoin Conference - Oct 28-29, 2017 - Austin](https://texasbitcoinconference.com/)
 * [Blockchain & Cryptocurrency Conference Feb 23–24, 2018 – Dallas](https://blockchain-conf.com/)
 * [Global Bitcoin and Blockchain Conferences](https://www.coindesk.com/bitcoin-events/)
