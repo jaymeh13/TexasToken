@@ -6,6 +6,7 @@ permalink: /texas-blockchain-events/
 # Austin Meetups
 * [Austin Blockchain Technology - (810 Members)](https://www.meetup.com/austinblockchaintechnology/)
 * [Bitcoin & Cryptofinance - (742 Members)](https://www.meetup.com/BitcoinAustin/)
+* [Austin Crypto Investment Meetup - (197 Members)](https://www.meetup.com/Austin-Crypto-Investment-Meetup/)
 
 
 # Dallas Meetups
