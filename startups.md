@@ -13,6 +13,7 @@ permalink: /texas-blockchain-startups/
 | [Block 512](https://block512.com/) | Expert services for blockchain solutions with viable business models. |
 | [Caprica](https://angel.co/caprica) | Decentralized, secure marketplace for digital items. |
 | [CoinVault ATM](http://coinvaultatm.com/) | Easy-to-use ATM kiosks. |
+| [Cryptocurrency Consulting](http://www.cryptocurrencyconsulting.com/) | DFW-based cryptocurrency consulting group. | 
 | [Factom](https://www.factom.com/) | Bringing The Blockchain To Business. |
 | [Ledger 9](http://lejer9.com/) | Communication & control for group alliance. |
 | [Multi Coin Capital](https://multicoin.capital/) | Diversified Blockchain Investment Fund |
