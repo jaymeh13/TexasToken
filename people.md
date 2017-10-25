@@ -18,6 +18,7 @@ permalink: /texas-blockchain-entrepreneurs-investors/
 | [Dustin Byington](https://twitter.com/Dustin_Byington) | President & co-founder of Stokens Venture Capital. |
 | [Jayme Hoffman](https://twitter.com/jhoff) | Maker of this site. Working on something new. |
 | [Fred J Constantinesco](https://twitter.com/fjccoin) | Co-founder of XRAM. |
+| [Jeremy Drzal](https://www.linkedin.com/in/jdrzal/) | Founder & CEO of BLOCK512. |
 | [Jeremy Kandah](https://twitter.com/jkandah) | Founder of BitAngels DApps fund. |
 | [Jimmy Song](https://twitter.com/jimmysong) | Bitcoin developer and entrepreneur. |
 | [Jonathan Rumion](https://twitter.com/willnavidson) | Founder of Austin Bitcoin Meetup. |
