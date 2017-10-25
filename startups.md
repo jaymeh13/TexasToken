@@ -10,7 +10,7 @@ permalink: /texas-blockchain-startups/
 | [Austin Bitcoin](http://austinbitcoin.com/) | Austin-based cryptocurrency consulting group. |
 | [Banque](http://www.banquapp.com/) | Identity Management & Financial Inclusion in the Blockchain. |
 | [BitAngels](https://angel.co/bitangels) | World's first distributed veteran entrepreneur and angel investor group. |
-| [Block 512](https://block512.com/) | Expert services for blockchain solutions with viable business models. |
+| [BLOCK 512](https://block512.com/) | Insights, Advisory, and Acceleration for blockchain solutions with viable business models including ICO Advisory. |
 | [Caprica](https://angel.co/caprica) | Decentralized, secure marketplace for digital items. |
 | [CoinVault ATM](http://coinvaultatm.com/) | Easy-to-use ATM kiosks. |
 | [Cryptocurrency Consulting](http://www.cryptocurrencyconsulting.com/) | DFW-based cryptocurrency consulting group. | 
