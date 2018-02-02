@@ -17,6 +17,7 @@ permalink: /texas-blockchain-entrepreneurs-investors/
 | [Dirk Foo](https://www.bloomberg.com/research/stocks/private/person.asp?personId=277109803&privcapId=276811901) | President of blockchain real estate company, Serene Country Homes Group. |
 | [Dustin Byington](https://twitter.com/Dustin_Byington) | President & co-founder of Stokens Venture Capital. |
 | [Jayme Hoffman](https://twitter.com/jhoff) | Maker of this site. Working on something new. |
+| [Fletcher Roberts](https://twitter.com/tweetwithfletch) | Lucky early adopter. |
 | [Fred J Constantinesco](https://twitter.com/fjccoin) | Co-founder of XRAM. |
 | [Jeremy Kandah](https://twitter.com/jkandah) | Founder of BitAngels DApps fund. |
 | [Jimmy Song](https://twitter.com/jimmysong) | Bitcoin developer and entrepreneur. |
