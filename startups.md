@@ -21,6 +21,7 @@ permalink: /texas-blockchain-startups/
 | [Ridgedale Ventures](http://www.ridgedaleventures.com/) | Early stage VC. |
 | [SatoshiTalent](http://satoshitalent.com/) | The First Blockchain Recruiting Firm. |
 | [Serene Country Homes Group](http://www.serenehomes.com/) | Blockchain funded real estate group. |
+| [Stemmons Enterprise](http://stemmons.com/) | Universal operations platform. |
 | [Stokens](https://www.stokens.com/) | Blockchain security sales. |
 | [Topl](https://www.topl.co/) | Blockchain-powered investment platform. |
 | [Trammell Venture Partners](http://trammell.ventures/) | Early stage VC with blockchain focus. |
