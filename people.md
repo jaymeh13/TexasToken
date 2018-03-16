@@ -24,6 +24,7 @@ permalink: /texas-blockchain-entrepreneurs-investors/
 | [Jonathan Rumion](https://twitter.com/willnavidson) | Founder of Austin Bitcoin Meetup. |
 | [Justus Ranvier](https://twitter.com/blockinthechain?lang=en) | Bitcoin pioneer, engineer and writer. |
 | [Kyle Samani](https://twitter.com/kylesamani) | Managing Partner, Multicoin Capital (Crypto fund) |
+| [Len Mazur] (https://www.linkedin.com/in/len-mazur-2a2385/) | Entrepreneur, Investor)
 | [Mark Cuban](https://twitter.com/FortuneLedger/status/900777460626845696) | Cryptocurrency investor. Founder of the first decentralized NBA franchise 😉 |
 | [Mark Morris](https://twitter.com/TarantulaTweets/) | Founder of Austin blockchain technology meetup. |
 | [Mark Thorsen](https://angel.co/mark-thorsen) | Investment manager at Central Texas Angel Network. |
