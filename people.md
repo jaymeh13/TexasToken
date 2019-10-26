@@ -19,6 +19,7 @@ permalink: /texas-blockchain-entrepreneurs-investors/
 | [Jayme Hoffman](https://twitter.com/jhoff) | Maker of this site. |
 | [Fletcher Roberts](https://twitter.com/tweetwithfletch) | Lucky early adopter. |
 | [Fred J Constantinesco](https://twitter.com/fjccoin) | Co-founder of XRAM. |
+| [Jeremy Drzal](https://www.linkedin.com/in/jdrzal/) | Founder & CEO of BLOCK512. |
 | [Jeremy Kandah](https://twitter.com/jkandah) | Founder of BitAngels DApps fund. |
 | [Jimmy Song](https://twitter.com/jimmysong) | Bitcoin developer and entrepreneur. |
 | [Jonathan Rumion](https://twitter.com/willnavidson) | Founder of Austin Bitcoin Meetup. |
